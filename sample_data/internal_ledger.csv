@@ -1,0 +1,5 @@
+transaction_id,date,description,amount
+INV101,2026-08-01,Laptops,50000
+INV102,2026-08-05,Office chairs,25000
+INV103,2026-08-13,Software license,20000
+LED999,2026-08-18,Advance payment,7000
